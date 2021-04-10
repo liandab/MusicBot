@@ -21,10 +21,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group 💬", url="https://t.me/ZauTeSupport"
+                        "Group 💬", url="https://t.me/joinchat/MVUMfW5d6cUzMmEx"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/ZauTeKm"
+                        "Channel 📣", url="https://t.me/dab_for_life"
                     )
                 ]
             ]
